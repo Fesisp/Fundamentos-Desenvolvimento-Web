@@ -55,7 +55,11 @@ Alinhamento do texto
     border-radius: 50%;
     object-fit: cover;
 }
+.icone {
+    cursor: pointer;
+    will-change: color;
 
+}
 .card .sidebar {
     grid-row: 1 / span 4;
 }
